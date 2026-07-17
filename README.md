@@ -44,7 +44,7 @@ Files will be added gradually as the guide develops.
 - [GROMACS Workflow Overview](08-gromacs-workflow-overview.md)
 - [CHARMM-GUI and Membrane Systems](09-charmm-gui-and-membrane-systems.md)
 - [AI-Predicted Structures](10-ai-predicted-structures.md)
-- Analysis and Interpretation
+- [Analysis and Interpretation](11-analysis-and-interpretation.md)
 - Common Mistakes
 - References and Further Reading
 
