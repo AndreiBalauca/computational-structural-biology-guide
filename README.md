@@ -41,7 +41,7 @@ Files will be added gradually as the guide develops.
 - [Protein and Ligand Preparation](05-protein-and-ligand-preparation.md)
 - [Molecular Docking](06-molecular-docking.md)
 - [AMBER Workflow Overview](07-amber-workflow-overview.md)
-- GROMACS Workflow Overview
+- [GROMACS Workflow Overview](08-gromacs-workflow-overview.md)
 - CHARMM-GUI and Membrane Systems
 - AI-Predicted Structures
 - Analysis and Interpretation
