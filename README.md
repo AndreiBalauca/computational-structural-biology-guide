@@ -43,7 +43,7 @@ Files will be added gradually as the guide develops.
 - [AMBER Workflow Overview](07-amber-workflow-overview.md)
 - [GROMACS Workflow Overview](08-gromacs-workflow-overview.md)
 - [CHARMM-GUI and Membrane Systems](09-charmm-gui-and-membrane-systems.md)
-- AI-Predicted Structures
+- [AI-Predicted Structures](10-ai-predicted-structures.md)
 - Analysis and Interpretation
 - Common Mistakes
 - References and Further Reading
