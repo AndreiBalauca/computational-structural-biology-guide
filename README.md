@@ -45,7 +45,7 @@ Files will be added gradually as the guide develops.
 - [CHARMM-GUI and Membrane Systems](09-charmm-gui-and-membrane-systems.md)
 - [AI-Predicted Structures](10-ai-predicted-structures.md)
 - [Analysis and Interpretation](11-analysis-and-interpretation.md)
-- Common Mistakes
+- [Common Mistakes](common-mistakes.md)
 - References and Further Reading
 
 ---
