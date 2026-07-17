@@ -34,8 +34,7 @@ Reproducible documentation
 
 Files will be added gradually as the guide develops.
 
-- Workflow Overview
-- Finding Protein Structures
+- [Workflow Overview](01-workflow-overview.md)- Finding Protein Structures
 - Structure Quality Assessment
 - Molecular Visualisation
 - Molecular File Formats
