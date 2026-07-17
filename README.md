@@ -38,7 +38,7 @@ Files will be added gradually as the guide develops.
 - [Finding Protein Structures](02-finding-protein-structures.md)
 - [Molecular Visualisation](03-molecular-visualisation.md)
 - [Molecular File Formats](04-molecular-file-formats.md)
-- Protein and Ligand Preparation
+- [Protein and Ligand Preparation](05-protein-and-ligand-preparation.md)
 - Molecular Docking
 - AMBER Workflow Overview
 - GROMACS Workflow Overview
