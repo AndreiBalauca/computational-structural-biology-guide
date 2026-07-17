@@ -40,7 +40,7 @@ Files will be added gradually as the guide develops.
 - [Molecular File Formats](04-molecular-file-formats.md)
 - [Protein and Ligand Preparation](05-protein-and-ligand-preparation.md)
 - [Molecular Docking](06-molecular-docking.md)
-- AMBER Workflow Overview
+- [AMBER Workflow Overview](07-amber-workflow-overview.md)
 - GROMACS Workflow Overview
 - CHARMM-GUI and Membrane Systems
 - AI-Predicted Structures
