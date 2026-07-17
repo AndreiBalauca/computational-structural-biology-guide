@@ -46,7 +46,7 @@ Files will be added gradually as the guide develops.
 - [AI-Predicted Structures](10-ai-predicted-structures.md)
 - [Analysis and Interpretation](11-analysis-and-interpretation.md)
 - [Common Mistakes](common-mistakes.md)
-- References and Further Reading
+- [References and Further Reading](references.md)
 
 ---
 
