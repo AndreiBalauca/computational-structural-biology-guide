@@ -42,7 +42,7 @@ Files will be added gradually as the guide develops.
 - [Molecular Docking](06-molecular-docking.md)
 - [AMBER Workflow Overview](07-amber-workflow-overview.md)
 - [GROMACS Workflow Overview](08-gromacs-workflow-overview.md)
-- CHARMM-GUI and Membrane Systems
+- [CHARMM-GUI and Membrane Systems](09-charmm-gui-and-membrane-systems.md)
 - AI-Predicted Structures
 - Analysis and Interpretation
 - Common Mistakes
