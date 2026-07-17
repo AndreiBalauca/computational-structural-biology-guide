@@ -36,7 +36,7 @@ Files will be added gradually as the guide develops.
 
 - [Workflow Overview](01-workflow-overview.md)
 - [Finding Protein Structures](02-finding-protein-structures.md)
-- Molecular Visualisation
+- [Molecular Visualisation](03-molecular-visualisation.md)
 - Molecular File Formats
 - Protein and Ligand Preparation
 - Molecular Docking
